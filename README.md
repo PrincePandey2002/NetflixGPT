@@ -27,6 +27,14 @@ Netflix-GPT is built using a modern tech stack that includes:
 - **Deployment**:
   - Firebase Hosting.
 
+## 🚀 Project Overview 
+![Project_Image_1](./Assets/Netflix1.png)
+![Project_Image_2](./Assets/Netflix2.png)
+![Project_Image_3](./Assets/Netflix3.png)
+![Project_Image_4](./Assets/Netflix4.png)
+![Project_Image_5](./Assets/Netflix5.png)
+![Project_Image_6](./Assets/Netflix6.png)
+
 ## 🚀 Features 
 
 - **AI-Powered Recommendations**: NetflixGPT uses OpenAI GPT-3 to analyze your viewing history and preferences, delivering personalized movie recommendations based on factors like year, cast, genre, and more!
@@ -50,6 +58,3 @@ Netflix-GPT is built using a modern tech stack that includes:
 - **Code Reusability**: We've set a strong foundation for future developments, promising even more exciting features to come!
 
 
-## 🚀 Demo
-
-You can see the live demo of the app [here]
