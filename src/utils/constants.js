@@ -17,3 +17,6 @@ export const IMG_CDN_URL="https://image.tmdb.org/t/p/w780/";
 export const SUPPORTED_LANGUAGES=[{identifier:"en",name:"English"},{identifier:"hindi",name:"Hindi"},{identifier:"spanish",name:"Spanish"}]
 
 export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
+console.log(OPENAI_KEY);
+
+// Gimini api AIzaSyBTZEeZCb36quRRyfTRvJjZGJzTGU7TZ4E
