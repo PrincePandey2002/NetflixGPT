@@ -28,11 +28,17 @@ Netflix-GPT is built using a modern tech stack that includes:
   - Firebase Hosting.
 
 ## 🚀 Project Overview 
+- Sign in page
 ![Project_Image_1](./Assets/Netflix1.png)
+- Sign up page
 ![Project_Image_2](./Assets/Netflix2.png)
+- Home page showing trailer of movie
 ![Project_Image_3](./Assets/Netflix3.png)
+- Categories of Movies
 ![Project_Image_4](./Assets/Netflix4.png)
+- AI Movie Guru page
 ![Project_Image_5](./Assets/Netflix5.png)
+- Error Handling Page
 ![Project_Image_6](./Assets/Netflix6.png)
 
 ## 🚀 Features 
