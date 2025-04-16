@@ -63,4 +63,6 @@ Netflix-GPT is built using a modern tech stack that includes:
 
 - **Code Reusability**: We've set a strong foundation for future developments, promising even more exciting features to come!
 
+## 🚀 Demo
 
+You can see the live demo of the app [here](https://princepandeyproject.netlify.app).
