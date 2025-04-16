@@ -21,7 +21,7 @@ Netflix-GPT is built using a modern tech stack that includes:
   - Firebase Authentication: Firebase's authentication service for secure user management.
 
 - **AI Integration**:
-  - OpenAI API OpenAI API provides users access to new pre-trained AI models developed by OpenAI, such as DALL-E, Codex, and GPT-3.
+  - Gemini API API provides users access to free newly pre-trained AI models developed by Google AI Studio, such as Gemini 2.0 Flash, Gemini 2.0 Flash Lite, Gemini 1.5 Pro and Gemini 1.5 Flash.
 
 
 - **Deployment**:
