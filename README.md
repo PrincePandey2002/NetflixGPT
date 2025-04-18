@@ -65,4 +65,4 @@ Netflix-GPT is built using a modern tech stack that includes:
 
 ## 🚀 Demo
 
-You can see the live demo of the app [here](https://princepandeyproject.netlify.app).
+You can see the live demo of the app [here](https://6801f22a8a816ee7facd66c5--princepandeyproject.netlify.app)
